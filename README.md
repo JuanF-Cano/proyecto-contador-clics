@@ -1,4 +1,4 @@
-El programa muestra el boton para contar clicks y una animación que hace más grande el número en el contador luego de ser presionado
+El programa muestra el boton para contar clicks y una animación que hace más grande el número en el contador luego de ser presional
 
 Ejecutar la Aplicación
 Para iniciar la aplicación, debes ejecutar el comando npm start en el terminal. Si trabajas con Visual Studio Code, puedes abrir el terminal con el atajo de teclado ctrl + ñ si tu teclado está en español y con ctrl + `  si tu teclado está en inglés.
@@ -7,4 +7,3 @@ La aplicación se abrirá automáticamente en el navegador configurado por defec
 
 Instalar Módulos
 Para instalar los módulos necesarios para la aplicación, debes ejecutar el comando npm install en el terminal
-
